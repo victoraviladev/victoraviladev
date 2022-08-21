@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8957E5&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7D6CFF&size=20&center=true&vCenter=true&width=1000&lines=Hey+there,+good+to+see+ya!;I'm+a+Full+Stack+Developer+Student;At+Kenzie+Academy+Brazil;I'm+from+Brazil,+Salvador-BA;Welcome!+:%29;Btw,+my+name+is+Victor,+ok?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5428F&size=20&center=true&vCenter=true&width=1000&lines=Hey+there,+good+to+see+ya!;I'm+a+Full+Stack+Developer+Student;At+Kenzie+Academy+Brazil;I'm+from+Brazil,+Salvador-BA;Welcome!+:%29;Btw,+my+name+is+Victor,+ok?)](https://git.io/typing-svg)
  
 ---
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victoraviladev&show_icons=true&count_private=true&hide_border=true&title_color=8957E5&icon_color=7D6CFF&text_color=c9d1d9&bg_color=0d1117" alt="Victor Avila github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoraviladev&layout=compact&hide_border=true&title_color=8957E5&text_color=E1E1E1&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victoraviladev&show_icons=true&count_private=true&hide_border=true&title_color=A9FEF7&icon_color=7D6CFF&text_color=c9d1d9&bg_color=0d1117" alt="Victor Avila github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoraviladev&layout=compact&hide_border=true&title_color=A9FEF7&text_color=E1E1E1&bg_color=0d1117" />
 </div>
 
 ---
@@ -20,6 +20,8 @@
 
 
 ---
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=victoraviladev&theme=redical&hide_border=true&area=true)
 
 ### Main skills:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
