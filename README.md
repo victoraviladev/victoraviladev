@@ -33,7 +33,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Apple](https://img.shields.io/badge/-Apple-0D1117?style=for-the-badge&logo=apple&labelColor=0D1117)&nbsp;
+![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=6817DA&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
 ![Notion](https://img.shields.io/badge/-notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117)&nbsp;
@@ -46,6 +46,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Material-Design](https://img.shields.io/badge/-Material_design-0D1117?style=for-the-badge&logo=material-design&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Apple](https://img.shields.io/badge/-Apple-0D1117?style=for-the-badge&logo=apple&labelColor=0D1117)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
