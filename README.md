@@ -35,20 +35,24 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=6817DA&labelColor=0D1117)&nbsp;
-![DBeaver](https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&logo=dbeaver&labelColor=0D1117)&nbsp;
 ![Apple](https://img.shields.io/badge/-Apple-0D1117?style=for-the-badge&logo=apple&labelColor=0D1117)&nbsp;
+![DBeaver](https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&logo=dbeaver&labelColor=0D1117)&nbsp;
 
 ### Other Knowledges:
-![Notion](https://img.shields.io/badge/-notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117)&nbsp;
-![Trello](https://img.shields.io/badge/-trello-0D1117?style=for-the-badge&logo=trello&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Slack](https://img.shields.io/badge/-slack-0D1117?style=for-the-badge&logo=slack&logoColor=A500E2&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Notion](https://img.shields.io/badge/-notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117)&nbsp;
+![Trello](https://img.shields.io/badge/-trello-0D1117?style=for-the-badge&logo=trello&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&labelColor=0D1117)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Express](https://img.shields.io/badge/-express-0D1117?style=for-the-badge&logo=express&logoColor=6817DA&labelColor=0D1117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwind&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=reactnative&logoColor=6817DA&labelColor=0D1117)&nbsp;
+![TypeORM](https://img.shields.io/badge/-TypeORM-0D1117?style=for-the-badge&logo=typeorm&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
   <div align="center">
