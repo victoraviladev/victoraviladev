@@ -24,6 +24,7 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=victoraviladev&theme=redical&hide_border=true&area=true)
 
 ### Main skills:
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -34,8 +35,10 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=6817DA&labelColor=0D1117)&nbsp;
+![DBeaver](https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&logo=dbeaver&labelColor=0D1117)&nbsp;
+![Apple](https://img.shields.io/badge/-Apple-0D1117?style=for-the-badge&logo=apple&labelColor=0D1117)&nbsp;
 
-### Other Knowledge:
+### Other Knowledges:
 ![Notion](https://img.shields.io/badge/-notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117)&nbsp;
 ![Trello](https://img.shields.io/badge/-trello-0D1117?style=for-the-badge&logo=trello&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Slack](https://img.shields.io/badge/-slack-0D1117?style=for-the-badge&logo=slack&logoColor=A500E2&labelColor=0D1117)&nbsp;
@@ -43,10 +46,10 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Material-Design](https://img.shields.io/badge/-Material_design-0D1117?style=for-the-badge&logo=material-design&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Apple](https://img.shields.io/badge/-Apple-0D1117?style=for-the-badge&logo=apple&labelColor=0D1117)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwind&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
